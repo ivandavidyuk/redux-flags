@@ -1,3 +1,12 @@
-# Frontend Mentor - REST Countries API with color theme switcher solution
+# Поиск информации о стране
 
-This is a solution to the [REST Countries API with color theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca).
+**Описание:**
+
+Используя это приложение вы можете найти основную информацию о любой стране. Информация о странах получена с помощью restcountries api
+
+**Стек:** React, Redux, CSS
+
+**Как использовать:**
+1) Перейдите на сайт https://ivandavidyuk.github.io/redux-flags/
+2) Введите название страны в строку поиска
+3) Выберите страну
